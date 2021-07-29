@@ -1,0 +1,24 @@
+.wall_shame_header{
+    text-align: center;
+    font-size: 55px;
+}
+.container {
+    display: flex;
+    padding-left: 10em;
+    padding-right:10em;
+    gap:16px;
+}
+
+table {
+    width: 50%
+}
+
+.right_img {
+    width: 50%;
+    height: 100vh;
+    object-fit: scale-down;
+}
+
+th {
+    border-bottom: 1px solid;
+}
