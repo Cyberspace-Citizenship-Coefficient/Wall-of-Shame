@@ -7,4 +7,7 @@
 - Make changes 
 - Submit pull request
 
+# We have an API for you
+See the  [API DOCS](https://cyberspace-citizenship-coefficient.github.io/Wall-of-Shame/API.html)
+
 
