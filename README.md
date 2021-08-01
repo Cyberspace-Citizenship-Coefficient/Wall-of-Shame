@@ -1,5 +1,5 @@
 # Wall-of-Shame
- Website that hosts the worst offenders of different cardinal sins of cyberspace.
+ Website that hosts the worst offenders of different cardinal sins of cyberspace. <br/>
 [See live site](https://cyberspace-citizenship-coefficient.github.io/Wall-of-Shame/)
 
 # How to set it up
