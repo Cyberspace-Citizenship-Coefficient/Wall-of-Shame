@@ -1,7 +1,7 @@
 
 async function fetchShames() {
 
-    let url = "/fake.json"
+    let url = "./fake.json"
     // let url = "https://439r656kxf.execute-api.us-east-2.amazonaws.com/dev/reports/wall-of-shame"
    
     return fetch(url, {
